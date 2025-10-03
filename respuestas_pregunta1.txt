@@ -1,0 +1,3 @@
+a. Sin la interfaz SistemaTarifario se tendrían que crear 2 funciones procesarViaje, y más por cada transporte añadido en el sistema
+b. Para implementar una nueva clase se crearía un nuevo archivo para dicha clase, y añadir la opcion de acceder a esta en el sistema
+c. Una interfaz es creada con la intención de ser implementada por una clase, mientras que de una clase se derivan objetos

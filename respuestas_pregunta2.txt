@@ -1,3 +1,3 @@
 1. Cambiaría el Modelo.
 2. La Vista y el Controlador. El Modelo sería el menos cambiado por ser en su mayoría lógica.
-3. No podría, ya que tendría que pasar por el Controlador primero.
+3. Sí podría. Ya que puede que la Vista necesite de los métodos del Modelo e implementarlo en el Controlador sería redundante.
